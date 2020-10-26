@@ -5,14 +5,17 @@
 </a>
 
 <br /><br />
+<img src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">
 
-Here are some ideas to get you started:
+### 💻 Web Developer 🌱I have finally reached my goal, to make my passion a job but with the desire to grow professionally unchanged.
 
-- 🔭 I am currently working in Alliumtech srl, Turin (IT)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I am currently working in [Alliumtech srl, Turin (IT)][website]
+- 🌱 I’m currently learning more about web dev
+- 👯 I am looking to collaborate on new projects
+- 💬 Ask me about to be a web dev
+- 😄 Pronouns: 'he/him'
+- ⚡ Fun fact: I love videogames but no time to play (thats fun)
+
+<!-- LINKS -->
+
+[website]: https://www.alliumtech.it/
