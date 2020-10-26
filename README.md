@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/sweetorino/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="100px" height="50px" src="https://cdn.pixabay.com/photo/2020/07/07/11/26/linkedin-5380185_960_720.png" />
+  <img align="left" alt="Abhishek's LinkdeIN" width="150px" height="50px" src="https://cdn.pixabay.com/photo/2020/07/07/11/26/linkedin-5380185_960_720.png" />
 </a>
+
 <br /><br />
 
 Here are some ideas to get you started:
