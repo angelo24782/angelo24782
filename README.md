@@ -9,7 +9,7 @@
 
 ### 💻 Web Developer 🌱I have finally reached my goal, to make my passion a job but with the desire to grow professionally unchanged.
 
-- 🔭 I am currently working in [Alliumtech srl, Turin (IT)][website]
+- 🔭 I am currently working in [AGM Solutions srl, Turin (IT)][website]
 - 🌱 I’m currently learning more about web dev
 - 👯 I am looking to collaborate on new projects
 - 💬 Ask me about to be a web dev
@@ -65,4 +65,4 @@
 
 <!-- LINKS -->
 
-[website]: https://www.alliumtech.it/
+[website]: https://agmsolutions.net/
